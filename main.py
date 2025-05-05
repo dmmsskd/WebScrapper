@@ -31,7 +31,7 @@ from utils import OPTIONS, START_BUTTON, START_TEXT
 
 load_dotenv()
 
-bot_token = os.getenv("BOT_TOKEN")
+bot_token = os.getenv("7966347762:AAEgxuzbrdgIucJN4VNmIAxdZjqcxkjdvnc")
 api_id = os.getenv("API_ID")
 api_hash = os.getenv("API_HASH")
 
